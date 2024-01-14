@@ -249,20 +249,23 @@ footer {
     background: #FFF8F3;
     margin-top: 130px;
     padding: 130px 200px;
+}
 
 .footer-cloumn {
     width: 50%;
 }
-.footer-cloumn h3{
+
+.footer-cloumn h3 {
     text-align: left;
 }
 
-.footer-cloumn p{
+.footer-cloumn p {
     text-align: left;
 }
 
-.contact input[type="text"], .contact[type="email"],
-textarea{
+.contact input[type="text"],
+.contact[type="email"],
+textarea {
     display: block;
     margin-bottom: 25px;
     padding: 18px 30px;
